@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE items>
+<items>
+    <row>
+       <book_id>1</book_id>
+       <title>A Journey to the Center</title>
+       <author>Jules Verne</author>
+       <genre>Science Fiction</genre>
+       <published_year>1864</published_year>
+       <isbn>1234567890123</isbn>
+       <price>12.99</price>
+       <rating>4.5</rating>
+       <stock_count>10</stock_count>
+       <publisher>Verne Publishing</publisher>
+       <pages>350</pages>
+    </row>
+    <row>
+       <book_id>2</book_id>
+       <title>War and Piece</title>
+       <author>Leo Tolstoy</author>
+       <genre>Historical</genre>
+       <published_year>1869</published_year>
+       <isbn>1234567890124</isbn>
+       <price>10.99</price>
+       <rating>4.8</rating>
+       <stock_count>4</stock_count>
+       <publisher>Tolstoy Prints</publisher>
+       <pages>1200</pages>
+    </row>
+    <row>
+       <book_id>3</book_id>
+       <title>Whispers of the Wind</title>
+       <author>Amelia Blackburn</author>
+       <genre>Romance</genre>
+       <published_year>1982</published_year>
+       <isbn>1234567890125</isbn>
+       <price>9.99</price>
+       <rating>4.2</rating>
+       <stock_count>20</stock_count>
+       <publisher>Blackburn House</publisher>
+       <pages>275</pages>
+    </row>
+    <row>
+       <book_id>4</book_id>
+       <title>The Galactic Odyssey</title>
+       <author>Orion Starfield</author>
+       <genre>Science Fiction</genre>
+       <published_year>2005</published_year>
+       <isbn>1234567890126</isbn>
+       <price>19.99</price>
+       <rating>4.9</rating>
+       <stock_count>15</stock_count>
+       <publisher>Nebula Press</publisher>
+       <pages>450</pages>
+    </row>
+</items>
