@@ -1,0 +1,2 @@
+ALTER TABLE Books
+ADD COLUMN pages INTEGER;
